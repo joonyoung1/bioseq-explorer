@@ -1,1 +1,4 @@
 venv/
+*.jar
+cromwell-executions/
+cromwell-workflow-logs/
